@@ -1,2 +1,3 @@
-Hello Team Rosie!git
-Working through git fundamentals.
+Hello Team Rosie!
+Working through git fundamentals!!!
+This change was made locally.
